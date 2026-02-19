@@ -1,0 +1,11 @@
+antigen:
+  chain: "A"
+  crd1_range: "1-42"
+  crd_range: "1-42"
+  numbering: "sequence"
+  uniprot_crd1_range: "21-62"
+  uniprot_crd_range: "21-62"
+  uniprot_numbering_note: "CRD1 is residues 1-42 in the provided sequence, corresponding to 21-62 in UniProt numbering."
+  sequence: "EPPTACREKQYLINSQCCSLCQPGQKLVSDCTEFTETECLPCGESEFLDTWNRETHCHQHKYCDPNLGLRVQQKGTSETDTICTCEEGWHCTSEACESCVLHRSCSPGFGVKQIATGVSDTICEPCPVGFFSNVSSAFEKCHPWTSCETKDLVVQQAGTNKTDVVCGPQDRLR"
+  crd1_sequence: "EPPTACREKQYLINSQCCSLCQPGQKLVSDCTEFTETECLPC"
+  crd_sequence: "EPPTACREKQYLINSQCCSLCQPGQKLVSDCTEFTETECLPC"

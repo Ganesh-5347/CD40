@@ -1,0 +1,43 @@
+# ---- Data & outputs (too large for git) ----
+haddock-project/inputs/
+haddock-project/outputs/
+!haddock-project/outputs/reports/
+haddock-project/logs/
+
+# ---- External tool (installed separately) ----
+haddock3/
+
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# ---- Environment ----
+.venv/
+venv/
+env/
+.env
+
+# ---- OS ----
+.DS_Store
+Thumbs.db
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ---- Presentations ----
+*.pptx
+
+# ---- Local data (downloaded separately) ----
+structure_predictions/
+*.tar.gz
+
+# ---- Misc ----
+misc/
+.claude/
